@@ -161,3 +161,6 @@ cython_debug/
 
 yolov8n.pt
 *_analyzed.mp4
+
+
+test_predictions
