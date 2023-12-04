@@ -160,6 +160,7 @@ cython_debug/
 #.idea/
 
 yolov8n.pt
+yolov8n-seg.pt
 *_analyzed.mp4
 
 
