@@ -159,9 +159,6 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-yolov8n.pt
-yolov8n-seg.pt
+yolov8*.pt
+
 *_analyzed.mp4
-
-
-test_predictions
