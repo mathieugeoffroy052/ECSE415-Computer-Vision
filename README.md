@@ -3,7 +3,7 @@
 Mathieu Geoffroy, 260986559 
 Ryan Reszetnik, 260948454
 
-# Install Requirements
+## Install Requirements
 ```
 pip install -r requirements.txt
 ```
